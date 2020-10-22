@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub profile 🚀
 
+I am a student at Concordia's Full-Stack Web Development Bootcamp. 🤓
+
+I like working on the front-end of websites 💅 just as much as I like working on the back-end 🦾.
+
+Before finding my passion for software engineering, I was an audio engineer 🔊. I find there are many similarities but programming is where lies 💖.
 <!--
 **mrzachnugent/mrzachnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
