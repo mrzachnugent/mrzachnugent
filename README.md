@@ -1,8 +1,9 @@
 ### Welcome to my GitHub profile 🚀
 
+💅 Full-Stack Web Developer 🦾.
+
 I am a student at Concordia University 🤓.
 
-💅 Full-Stack Web Developer 🦾.
 
 ⚡ Fun fact: I used to be an audio engineer 🔊.
 <!--
