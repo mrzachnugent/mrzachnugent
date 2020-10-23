@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile 🚀
 
-I am a student at Concordia's Full-Stack Web Development Bootcamp 🤓.
+I am a student at Concordia University 🤓.
 
-I like working on the front-end of websites 💅 just as much as I like working on the back-end 🦾.
+💅 Full-Stack Web Developer 🦾.
 
 ⚡ Fun fact: I used to be an audio engineer 🔊.
 <!--
