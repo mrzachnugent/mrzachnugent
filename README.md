@@ -1,11 +1,10 @@
 ### Welcome to my GitHub profile 🚀
 
-💅 Full-Stack Web Developer 🦾.
+💅 Full-Stack Web Developement Student 🦾.
 
-I am a student at Concordia University 🤓.
+<br>
 
-
-⚡ Fun fact: I used to be an audio engineer 🔊.
+>I used to be an audio engineer 🔊.
 <!--
 **mrzachnugent/mrzachnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
