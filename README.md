@@ -1,6 +1,8 @@
 ### Welcome to my GitHub profile 🚀
 
-💅 Full-Stack Web Developement Student 🦾.
+💅 Full-Stack Web Developer 🦾.
+<br>
+I am currently looking for employment
 
 <br>
 
