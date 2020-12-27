@@ -2,7 +2,8 @@
 
 💅 Full-Stack Web Developer 🦾.
 <br>
-I am currently looking for employment
+<br>
+🕵️ I am currently looking for employment.
 
 <br>
 
