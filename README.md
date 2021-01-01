@@ -1,13 +1,11 @@
 ### Welcome to my GitHub profile 🚀
 
-💅 Full-Stack Web Developer 🦾.
+💅 Full-stack developer 🦾
 <br>
-<br>
-🕵️ I am currently looking for employment.
 
 <br>
 
->I used to be an audio engineer 🔊.
+>⚡ Fun fact: I used to be an audio engineer 🔊
 <!--
 **mrzachnugent/mrzachnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
