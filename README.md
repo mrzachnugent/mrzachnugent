@@ -5,7 +5,7 @@
 
 <br>
 
->⚡ Fun fact: I used to be an audio engineer 🔊
+>⚡ Fun fact: Former audio engineer 🔊
 <!--
 **mrzachnugent/mrzachnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
