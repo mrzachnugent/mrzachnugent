@@ -1,11 +1,12 @@
 ### Welcome to my GitHub profile 🚀
 
-💅 Full-stack developer 🦾
+Mobile Application Developer (M.A.D. 🦾)
 <br>
 
 <br>
 
->⚡ Fun fact: Former audio engineer 🔊
+
+>⚡ Former audio engineer 🔊
 <!--
 **mrzachnugent/mrzachnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
