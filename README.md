@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  I specialize in mobile application developement and I teach web development for Concordia's Bootcamps. I have worked as a Developer since 2021 and I love working with React Native, React, and Graphql. ❤
+  I specialize in mobile application developement and I teach web development for Concordia's Bootcamps. I've been working as a Developer since 2021 and I love working with React Native, React, and Graphql. ❤
   </p>
 <br />
   
