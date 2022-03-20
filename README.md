@@ -24,19 +24,19 @@
   
 <p align="center">
   <a href="https://github.com/mrzachnugent/ourLife">
-    <img height="531" width="300" src="https://github.com/mrzachnugent/ourLife/blob/main/assets/screenshots/ourLifeGif.gif"/>
+    <img height="735" width="400" src="https://github.com/mrzachnugent/ourLife/blob/main/assets/screenshots/dashboard.png"/>
   </a>
   <a href="https://github.com/mrzachnugent/mrSMG">
-    <img height="531" width="300" src="https://github.com/mrzachnugent/mrSMG/blob/main/src/assets/screenshot/smg-preview.gif" />
+    <img height="735" width="400" src="https://github.com/mrzachnugent/mrSMG/blob/main/src/assets/screenshot/smg-preview.gif" />
   </a>
 </p>
   
 <p align="center">
    <a href="https://github.com/mrzachnugent/ourLife">
-    <img align="" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzachnugent&repo=ourLife&theme=tokyonight" />
+    <img align="" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzachnugent&repo=ourLife&theme=tokyonight" />
   </a>
   <a href="https://github.com/mrzachnugent/mrSMG">
-    <img align="" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzachnugent&repo=mrSMG&theme=tokyonight" />
+    <img align="" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzachnugent&repo=mrSMG&theme=tokyonight" />
   </a>
 </p>
 
