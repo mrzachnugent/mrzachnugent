@@ -40,4 +40,5 @@
 </p>
 
 <p align="center">Timezone: Eastern Standard Time (EST)</p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mrzachnugent.mrzachnugent" alt="newf" /></p>
 
