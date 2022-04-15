@@ -5,6 +5,7 @@
 &nbsp;
 <a href="https://www.mtlapps.com/"><img src="https://img.shields.io/badge/MTLapps-5e5ce6?style=for-the-badge&logo=MTLapps&logoColor=white" alt="MTLapps" /></a>&nbsp;
 <a href="https://www.npmjs.com/package/newf"><img src="https://img.shields.io/badge/newf-ffffff?style=for-the-badge&logo=npm&logoColor=CC3534" alt="newf" /></a>&nbsp;
+<a href="https://dev.to/mrzachnugent"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
 <br />
 
