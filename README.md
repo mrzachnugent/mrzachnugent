@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Zach</h1>
 
-<p align="center">Currently learning Rust 🦀</p>
+<p align="center">Web & Mobile dev 🤓</p>
 
 <p align="center">
   &nbsp;
@@ -20,7 +20,7 @@
 
 <br />
 
-**<p align="center">I love working with React Native, React, and Graphql. ❤</p>**
+**<p align="center">I love working with Expo, Next.js, tRPC, and Graphql. ❤</p>**
 
 <br />
 
